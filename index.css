@@ -1,0 +1,9 @@
+body {
+    background-color: #151515;
+}
+
+#start {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}

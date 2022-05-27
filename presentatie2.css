@@ -1,0 +1,42 @@
+body {
+    background-color: #151515;
+}
+
+table {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#tddata {
+    white-space: nowrap;
+    background-color: #9999cc;
+    font-weight: bolder;
+    font-size: 33px;
+    border: solid #aaaadd 5px;
+    padding: 25px 5px;
+    text-align: center;
+}
+
+.tdaan {
+    white-space: nowrap;
+    background-color: #bbbbee;
+    font-weight: bold;
+    font-size: 28px;
+    border: solid #ccccff 5px;
+    padding: 20px 5px;
+    text-align: center;
+}
+
+#terug {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+
+#verder {
+    position: fixed;
+    bottom: 10px;
+    left: 60px;
+}
